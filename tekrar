@@ -1,0 +1,48 @@
+website = "http://www.sadikturan.com" 
+course = "Python Kursu : Baştan Sona Python Programlama Rehberiniz (40 saat)"
+
+# result = len(course)
+# print(result)
+
+# result = website[7:10]
+# print(result)
+# length = len(website)
+# result = website[length-3:length]
+# print(result)
+# result1 = course[ :15]
+# result2 = course[-15:]
+
+# print(result1 + result2)
+# name = "Bora"
+# surname ="Yılmaz"
+# age = "32"
+# job = "Mühendis"
+# print("Benim adım {} {}, yaşım {}, mesleğim {}".format(name,surname,age,job))
+# s = "Hello world"
+# s = s[0:6] + "W"+s[7:]
+# print(s)
+# result = "abc"
+# print(result*3)
+# message = "Hello There. My Name Is Sadik Turan"
+# # index = message.find("Sadik")
+# # print(index)
+# isFound = message.startswith("H")
+# print(isFound)
+# result = website.lstrip("htp:/.w").rstrip(".com")
+# print(result)
+# message = course.replace("P","p").replace("K","k").replace("B","b").replace("S","s").replace("R","r")
+# print(message)
+# result = website.count("a")
+# print(result)
+# isFound = website.find(".com")
+# print(isFound)
+# isalpha = course.isalpha()
+# print(isalpha)
+# result = "contents".center(50,"*")
+# print(result)
+# result = course.replace("","-")
+# print(result)
+# result = "Hello World".replace("World","There")
+# print(result)
+result = course.split(" ")
+print(result)
