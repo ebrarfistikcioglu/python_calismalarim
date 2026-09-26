@@ -1,0 +1,14 @@
+sadik turan:60,70
+sadik turan:60,70
+sadik turan:60,70
+sadik turan:60,70
+sadik turan:60,70
+sadik turan:50,60
+a b:5,6
+s s:4,5
+a v:5,6
+a s:3,4
+s d:4,5
+e r:4,5
+sadik turan:40,50
+ebrar f:100,100
